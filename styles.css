@@ -1,0 +1,22 @@
+h1 {
+    display:flex;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    width:100%;
+    margin: 20;
+    background-color: color(srgb rgb(226, 226, 226) green blue);
+}
+
+.card-body {
+    width: 100%;
+    color: color(srgb rgb(226,226,226)green blue);
+    
+}
+
+.card {
+    width: 100%;
+    color: color(srgb rgb(226,226,226)green blue);
+}

@@ -1,0 +1,5 @@
+silly picture
+use boxes with transition size
+use flex box
+make a navigation bar
+embed PDF of actual resume
